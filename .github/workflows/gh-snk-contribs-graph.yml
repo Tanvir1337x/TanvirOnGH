@@ -19,13 +19,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate files
-        uses: Platane/snk@v3
+        # Faster action to only generate SVG files
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-light.svg?color_snake=##C38F8F&color_dots=#cabff6,#af8dff,#9964f4,#984bf1,#763cd9
+            dist/github-snake-dark.svg?color_snake=##C38F8F&color_dots=#cabff6,#af8dff,#9964f4,#984bf1,#763cd9
 
       - name: Push files to the output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -6,8 +6,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake.svg" />
-  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-light.svg" />
+  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-light.svg" />
 </picture>
 
 ---
