@@ -5,9 +5,9 @@
 [![SSH](https://img.shields.io/badge/SSH_Fingerprint-SHA256:mfbTDaRaC9rwRqPYij5uKQCApFEmp3feLT1rfJUu0XA-0?style=social&labelColor=545454&color=313131)](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/refs/heads/showcase/keys/ssh_public_key.pub)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-light.svg" />
-  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/snake-graph-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/snake-graph-output/github-snake-light.svg" />
+  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/snake-graph-output/github-snake-light.svg" />
 </picture>
 
 ---
