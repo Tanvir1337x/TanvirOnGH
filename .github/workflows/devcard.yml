@@ -1,10 +1,10 @@
 name: Generate daily.dev devcard
 
 on:
-  push:
+  # push:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 */1 * *" # Daily
+  # schedule:
+    # - cron: "0 0 */1 * *" # Daily
 
 jobs:
   devcard:
